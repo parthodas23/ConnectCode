@@ -11,4 +11,5 @@ export const ENV = {
   STREAM_API_SECRET: process.env.STREAM_API_SECRET,
   STREAM_API_SECRET: process.env.STREAM_API_SECRET,
   CLIENT_URL: process.env.CLIENT_URL,
+  CLERK_WEBHOOK_SECRET: process.env.CLERK_WEBHOOK_SECRET,
 };
